@@ -1,12 +1,12 @@
 # FreeIMU calibration GUI for ROS
 
-*Initial release (for arduino) :* http://www.varesano.net/blog/fabio/freeimu-magnetometer-and-accelerometer-calibration-gui-alpha-version-out
+*Initial release (for arduino) : http://www.varesano.net/blog/fabio/freeimu-magnetometer-and-accelerometer-calibration-gui-alpha-version-out*
 
 GUI adapt to connect ROS topic instead of arduino serial
 
 Topics messages need to be :
 
-* *sensor_msgs/Imu()* 
+* *sensor_msgs/Imu* 
 * *sensor_msgs/MagneticField*
 
 
